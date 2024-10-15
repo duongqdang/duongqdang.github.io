@@ -12,6 +12,6 @@ This paper studies the interaction between customer capital and firm innovation.
 
 ## Publications
 
-“Exorbitant Privilege and the Sustainability of US Public Debt” (with Jason Choi, Diego Perez, and Rishabh Kirpalani), AEA Papers and Proceedings, May 2024 [[paper]](http://duongqdang.github.io/files/CDKP_UK.pdf)
+“Exorbitant Privilege and the Sustainability of US Public Debt” (with Jason Choi, Diego Perez, and Rishabh Kirpalani), AEA Papers and Proceedings, May 2024 [[paper]](http://duongqdang.github.io/files/CDKP_USdebt_nber.pdf)
 
-“The Secular Decrease in UK Safe Asset Market Power” (with Jason Choi, Diego Perez, and Rishabh Kirpalani), AEA Papers and Proceedings, May 2023 [[paper]](http://duongqdang.github.io/files/CDKP_USdebt_nber.pdf)
+“The Secular Decrease in UK Safe Asset Market Power” (with Jason Choi, Diego Perez, and Rishabh Kirpalani), AEA Papers and Proceedings, May 2023 [[paper]](http://duongqdang.github.io/files/CDKP_UK.pdf)
